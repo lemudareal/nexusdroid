@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="happy sanford.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="happy sanford0000" x="0" y="0" width="145" height="146" frameX="-1" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0001" x="145" y="0" width="145" height="146" frameX="-1" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0002" x="145" y="0" width="145" height="146" frameX="-1" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0003" x="290" y="0" width="145" height="146" frameX="-1" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0004" x="290" y="0" width="145" height="146" frameX="-1" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0005" x="0" y="146" width="145" height="145" frameX="0" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0006" x="0" y="146" width="145" height="145" frameX="0" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0007" x="0" y="146" width="145" height="145" frameX="0" frameY="0" frameWidth="146" frameHeight="146"/>
+	<SubTexture name="happy sanford0008" x="0" y="146" width="145" height="145" frameX="0" frameY="0" frameWidth="146" frameHeight="146"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="epic sanford.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="epic sanford0000" x="10" y="10" width="645" height="640"/>
+	<SubTexture name="epic sanford0001" x="665" y="10" width="645" height="640"/>
+	<SubTexture name="epic sanford0002" x="1320" y="10" width="645" height="640"/>
+	<SubTexture name="epic sanford0003" x="10" y="660" width="645" height="640"/>
+	<SubTexture name="epic sanford0004" x="10" y="660" width="645" height="640"/>
+	<SubTexture name="epic sanford0005" x="10" y="660" width="645" height="640"/>
+	<SubTexture name="epic sanford0006" x="10" y="660" width="645" height="640"/>
+	<SubTexture name="epic sanford0007" x="10" y="660" width="645" height="640"/>
+	<SubTexture name="epic sanford0008" x="10" y="660" width="645" height="640"/>
+	<SubTexture name="epic sanford0009" x="10" y="660" width="645" height="640"/>
+</TextureAtlas>

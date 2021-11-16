@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="normal_bf.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal bf0000" x="0" y="0" width="77" height="79" frameX="-14" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0001" x="77" y="0" width="77" height="79" frameX="-7" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0002" x="77" y="0" width="77" height="79" frameX="-7" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0003" x="154" y="0" width="77" height="79" frameX="-3" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0004" x="154" y="0" width="77" height="79" frameX="-3" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0005" x="0" y="79" width="77" height="79" frameX="-1" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0006" x="0" y="79" width="77" height="79" frameX="0" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0007" x="0" y="79" width="77" height="79" frameX="0" frameY="0" frameWidth="91" frameHeight="79"/>
+	<SubTexture name="normal bf0008" x="0" y="79" width="77" height="79" frameX="0" frameY="0" frameWidth="91" frameHeight="79"/>
+</TextureAtlas>

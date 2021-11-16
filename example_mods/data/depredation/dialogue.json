@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "wtfd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Jeebus Hank! no wonder you wear a mask"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "epicsd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im kinda done with this kids shit, Hank take my gun, you're a better shot "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "wtfd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We'll make sure the girl doesnt do anything."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "jawless",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets go midget"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hank outline.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hank outline0000" x="0" y="0" width="634" height="579" frameX="-130" frameY="-9" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0001" x="0" y="0" width="634" height="579" frameX="-130" frameY="-9" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0002" x="634" y="0" width="751" height="526" frameX="-13" frameY="-62" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0003" x="634" y="0" width="751" height="526" frameX="-13" frameY="-62" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0004" x="1385" y="0" width="764" height="526" frameX="0" frameY="-62" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0005" x="1385" y="0" width="764" height="526" frameX="0" frameY="-62" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0006" x="2149" y="0" width="700" height="529" frameX="-64" frameY="-59" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0007" x="2149" y="0" width="700" height="529" frameX="-64" frameY="-59" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0008" x="2849" y="0" width="652" height="588" frameX="-112" frameY="0" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0009" x="3501" y="0" width="633" height="577" frameX="-131" frameY="-11" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0010" x="4134" y="0" width="638" height="578" frameX="-128" frameY="-11" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0011" x="4772" y="0" width="733" height="537" frameX="-34" frameY="-53" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0012" x="5505" y="0" width="718" height="530" frameX="-30" frameY="-58" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0013" x="6223" y="0" width="724" height="509" frameX="-7" frameY="-79" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0014" x="6947" y="0" width="731" height="512" frameX="-9" frameY="-75" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0015" x="0" y="588" width="664" height="539" frameX="-80" frameY="-48" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0016" x="664" y="588" width="675" height="520" frameX="-74" frameY="-68" frameWidth="767" frameHeight="590"/>
+	<SubTexture name="hank outline0017" x="1339" y="588" width="635" height="583" frameX="-121" frameY="-4" frameWidth="767" frameHeight="590"/>
+</TextureAtlas>

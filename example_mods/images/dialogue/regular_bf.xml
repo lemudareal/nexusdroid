@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="regular bf.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="regular bf0000" x="10" y="10" width="340" height="258"/>
+	<SubTexture name="regular bf0001" x="360" y="10" width="340" height="258"/>
+	<SubTexture name="regular bf0002" x="10" y="278" width="340" height="258"/>
+	<SubTexture name="regular bf0003" x="360" y="278" width="340" height="258"/>
+	<SubTexture name="regular bf0004" x="360" y="278" width="340" height="258"/>
+	<SubTexture name="regular bf0005" x="360" y="278" width="340" height="258"/>
+	<SubTexture name="regular bf0006" x="360" y="278" width="340" height="258"/>
+	<SubTexture name="regular bf0007" x="360" y="278" width="340" height="258"/>
+	<SubTexture name="regular bf0008" x="360" y="278" width="340" height="258"/>
+	<SubTexture name="regular bf0009" x="360" y="278" width="340" height="258"/>
+</TextureAtlas>

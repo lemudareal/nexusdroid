@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="annoyed hank.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annoyed hank0000" x="10" y="10" width="810" height="805"/>
+	<SubTexture name="annoyed hank0001" x="830" y="10" width="810" height="805"/>
+	<SubTexture name="annoyed hank0002" x="10" y="825" width="810" height="805"/>
+	<SubTexture name="annoyed hank0003" x="830" y="825" width="810" height="805"/>
+	<SubTexture name="annoyed hank0004" x="830" y="825" width="810" height="805"/>
+	<SubTexture name="annoyed hank0005" x="830" y="825" width="810" height="805"/>
+	<SubTexture name="annoyed hank0006" x="830" y="825" width="810" height="805"/>
+	<SubTexture name="annoyed hank0007" x="830" y="825" width="810" height="805"/>
+	<SubTexture name="annoyed hank0008" x="830" y="825" width="810" height="805"/>
+	<SubTexture name="annoyed hank0009" x="830" y="825" width="810" height="805"/>
+</TextureAtlas>

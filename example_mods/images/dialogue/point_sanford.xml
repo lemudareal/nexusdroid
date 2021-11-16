@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="point sanford.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="point sanford0000" x="10" y="10" width="800" height="795"/>
+	<SubTexture name="point sanford0001" x="820" y="10" width="800" height="795"/>
+	<SubTexture name="point sanford0002" x="10" y="815" width="800" height="795"/>
+	<SubTexture name="point sanford0003" x="820" y="815" width="800" height="795"/>
+	<SubTexture name="point sanford0004" x="820" y="815" width="800" height="795"/>
+	<SubTexture name="point sanford0005" x="820" y="815" width="800" height="795"/>
+	<SubTexture name="point sanford0006" x="820" y="815" width="800" height="795"/>
+	<SubTexture name="point sanford0007" x="820" y="815" width="800" height="795"/>
+	<SubTexture name="point sanford0008" x="820" y="815" width="800" height="795"/>
+	<SubTexture name="point sanford0009" x="820" y="815" width="800" height="795"/>
+</TextureAtlas>

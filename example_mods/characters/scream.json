@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				155,
+				440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle dance"
+		},
+		{
+			"offsets": [
+				-180,
+				337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				-82,
+				357
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				52,
+				335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sign right"
+		},
+		{
+			"offsets": [
+				190,
+				437
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "scream"
+		},
+		{
+			"offsets": [
+				200,
+				437
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "scream",
+			"loop": false,
+			"name": "scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/auditorpain",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "auditor",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

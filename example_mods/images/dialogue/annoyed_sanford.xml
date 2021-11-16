@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="annoyed sanford.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="annoyed sanford0000" x="10" y="10" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0001" x="803" y="10" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0002" x="10" y="798" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0003" x="803" y="798" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0004" x="803" y="798" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0005" x="803" y="798" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0006" x="803" y="798" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0007" x="803" y="798" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0008" x="803" y="798" width="783" height="778"/>
+	<SubTexture name="annoyed sanford0009" x="803" y="798" width="783" height="778"/>
+</TextureAtlas>

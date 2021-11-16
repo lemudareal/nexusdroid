@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "regularbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bo bee poopoo"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "happyd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "happyd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was pretty good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pointsd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah, too bad you lost. "
+		},
+		{
+			"speed": 0.085,
+			"portrait": "angryh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LOST?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "angryh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean? I totally kicked his ass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "laughd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "PFFF"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "annoyedsd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah right."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "annoyedsd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How about this, once you beat him, we'll kill him."
+		},
+		{
+			"speed": 0.09,
+			"portrait": "annoyedh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Fine,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "annoyedh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but only if i get to kill him."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pointd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your on"
+		},
+		{
+			"speed": 0.025,
+			"portrait": "missbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAIT WHA-"
+		}
+	]
+}

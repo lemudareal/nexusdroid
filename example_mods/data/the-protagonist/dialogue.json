@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "confusedh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The fuck? Who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "regularbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bep bop "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "pointd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think he wants to rapbattle you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "annoyedh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why would I do that..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "annoyedsd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Cmon Hank, killing grunts all day is boring, it could be fun "
+		},
+		{
+			"speed": 0.16,
+			"portrait": "annoyedh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "annoyedh",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fine"
+		}
+	]
+}

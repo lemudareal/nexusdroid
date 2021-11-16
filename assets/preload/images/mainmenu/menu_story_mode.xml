@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story_mode basic0000" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0001" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0002" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0003" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0004" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0005" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0006" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0007" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode basic0008" x="10" y="10" width="622" height="134"/>
+	<SubTexture name="story_mode white0000" x="10" y="154" width="778" height="161"/>
+	<SubTexture name="story_mode white0001" x="10" y="154" width="778" height="161"/>
+	<SubTexture name="story_mode white0002" x="10" y="154" width="778" height="161"/>
+</TextureAtlas>
